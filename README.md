@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on App Developement and OpenSource Projects
 - 📫 How to reach me jishnusatwikkcp@gmail.com
 - 🐦 Twitter - JishnuSatwik
-- Linkedn - Jishnu Satwik Kancherlapalli
+- Linkedin - Jishnu Satwik Kancherlapalli
