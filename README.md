@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jissuuu
 - 👀 I’m interested in Programming, Developement, Photography
-- 🌱 I’m currently learning App and Web Developement
 - 💞️ I’m looking to collaborate on App Developement and OpenSource Projects
 - 📫 How to reach me jishnusatwikkcp@gmail.com
 - 🐦 Twitter - JishnuSatwik
