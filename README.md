@@ -1,9 +1,9 @@
 # Hi there, I'm Jishnu Satwik Kancherlapalli 👋
 - 👀 I’m interested in Programming, Developement, Photography
 - 💞️ I’m looking to collaborate on App Developement and OpenSource Projects
-- 📫 How to reach me jishnusatwikkcp@gmail.com
-- 🐦 Twitter - [JishnuSatwik](https://twitter.com/JishnuSatwik)
-- 🖇️ Linkedin - [Jishnu Satwik Kancherlapalli](https://www.linkedin.com/in/jishnu-satwik-kancherlapalli-470602226)
+- 📫 How to reach me [jishnusatwikkcp@gmail.com](mailto:jishnusatwikkcp@gmail.com)
+- 🐦 Twitter - [twitter.com](https://twitter.com/JishnuSatwik)
+- 🖇️ Linkedin - [linkedin.com](https://www.linkedin.com/in/jishnu-satwik-kancherlapalli-470602226)
 # Things i work with
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
